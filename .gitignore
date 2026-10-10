@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv copy/
+
+# OS
+.DS_Store
+
+# Junk duplicates
+.claude copy/
+LICENSE copy
+__pycache__ copy/
+checkpoints/
